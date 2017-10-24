@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/THISONE!!!!_2.unity
+- path: Assets/THISONE!!!!.unity
   isLoaded: 1
   isActive: 1
